@@ -34,7 +34,6 @@ A Flutter application that allows users to draw shapes (Circle, Square, Rectangl
 
 📁 Project Structure
 bash
-Copy code
 lib/
 ├── main.dart                   # Entry point
 ├── models/
